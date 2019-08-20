@@ -26,28 +26,6 @@
 		0FCB3C6F107F061300032BEC /* RTL8169.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RTL8169.cpp; sourceTree = "<group>"; };
 		0FCB3C71107F062F00032BEC /* RTL8100.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RTL8100.cpp; sourceTree = "<group>"; };
 		0FCB3C7F107F0A1600032BEC /* impl_defs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = impl_defs.h; sourceTree = "<group>"; };
-		1252BE0216E9CAB8002467B3 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		1252BE0316E9CAB8002467B3 /* Makefile_linux24x */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile_linux24x; sourceTree = "<group>"; };
-		1252BE0416E9CAB8002467B3 /* r8168.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = r8168.h; sourceTree = "<group>"; };
-		1252BE0516E9CAB8002467B3 /* r8168_asf.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = r8168_asf.c; sourceTree = "<group>"; };
-		1252BE0616E9CAB8002467B3 /* r8168_asf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = r8168_asf.h; sourceTree = "<group>"; };
-		1252BE0716E9CAB8002467B3 /* r8168_n.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = r8168_n.c; sourceTree = "<group>"; };
-		1252BE0816E9CAB8002467B3 /* rtl_eeprom.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = rtl_eeprom.c; sourceTree = "<group>"; };
-		1252BE0916E9CAB8002467B3 /* rtl_eeprom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rtl_eeprom.h; sourceTree = "<group>"; };
-		1252BE0A16E9CAB8002467B3 /* rtltool.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = rtltool.c; sourceTree = "<group>"; };
-		1252BE0B16E9CAB8002467B3 /* rtltool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rtltool.h; sourceTree = "<group>"; };
-		125CDCC916F058830087E6D0 /* autorun.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = autorun.sh; sourceTree = "<group>"; };
-		125CDCCA16F058830087E6D0 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		125CDCCB16F058830087E6D0 /* readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
-		125CDCCD16F058830087E6D0 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		125CDCCE16F058830087E6D0 /* Makefile_linux24x */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile_linux24x; sourceTree = "<group>"; };
-		125CDCCF16F058830087E6D0 /* r8101.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = r8101.h; sourceTree = "<group>"; };
-		125CDCD016F058830087E6D0 /* r8101_n.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = r8101_n.c; sourceTree = "<group>"; };
-		125CDCD116F058830087E6D0 /* rtl_eeprom.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = rtl_eeprom.c; sourceTree = "<group>"; };
-		125CDCD216F058830087E6D0 /* rtl_eeprom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rtl_eeprom.h; sourceTree = "<group>"; };
-		125CDCD316F058830087E6D0 /* rtl_ethtool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rtl_ethtool.h; sourceTree = "<group>"; };
-		125CDCD416F058830087E6D0 /* rtltool.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = rtltool.c; sourceTree = "<group>"; };
-		125CDCD516F058830087E6D0 /* rtltool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rtltool.h; sourceTree = "<group>"; };
 		12EEA3C9185DAE9C003A92F8 /* autorun.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = autorun.sh; sourceTree = "<group>"; };
 		12EEA3CA185DAE9C003A92F8 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		12EEA3CB185DAE9C003A92F8 /* readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
@@ -60,19 +38,6 @@
 		12EEA3D3185DAE9C003A92F8 /* rtl_ethtool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rtl_ethtool.h; sourceTree = "<group>"; };
 		12EEA3D4185DAE9C003A92F8 /* rtltool.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = rtltool.c; sourceTree = "<group>"; };
 		12EEA3D5185DAE9C003A92F8 /* rtltool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rtltool.h; sourceTree = "<group>"; };
-		12EEA3D7185DAEAE003A92F8 /* autorun.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = autorun.sh; sourceTree = "<group>"; };
-		12EEA3D8185DAEAE003A92F8 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		12EEA3D9185DAEAE003A92F8 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
-		12EEA3DB185DAEAE003A92F8 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		12EEA3DC185DAEAE003A92F8 /* Makefile_linux24x */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile_linux24x; sourceTree = "<group>"; };
-		12EEA3DD185DAEAE003A92F8 /* r8168.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = r8168.h; sourceTree = "<group>"; };
-		12EEA3DE185DAEAE003A92F8 /* r8168_asf.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = r8168_asf.c; sourceTree = "<group>"; };
-		12EEA3DF185DAEAE003A92F8 /* r8168_asf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = r8168_asf.h; sourceTree = "<group>"; };
-		12EEA3E0185DAEAE003A92F8 /* r8168_n.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = r8168_n.c; sourceTree = "<group>"; };
-		12EEA3E1185DAEAE003A92F8 /* rtl_eeprom.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = rtl_eeprom.c; sourceTree = "<group>"; };
-		12EEA3E2185DAEAE003A92F8 /* rtl_eeprom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rtl_eeprom.h; sourceTree = "<group>"; };
-		12EEA3E3185DAEAE003A92F8 /* rtltool.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = rtltool.c; sourceTree = "<group>"; };
-		12EEA3E4185DAEAE003A92F8 /* rtltool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rtltool.h; sourceTree = "<group>"; };
 		12EEA3E6185DAEBE003A92F8 /* autorun.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = autorun.sh; sourceTree = "<group>"; };
 		12EEA3E7185DAEBE003A92F8 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		12EEA3E8185DAEBE003A92F8 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
@@ -108,10 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				247142CAFF3F8F9811CA285C /* Source */,
-				1252BE0116E9CAB8002467B3 /* src */,
-				125CDCC816F058830087E6D0 /* r8101-1.023 1.00 */,
 				12EEA3C8185DAE9C003A92F8 /* r8101-1.024.00 */,
-				12EEA3D6185DAEAE003A92F8 /* r8168-8.035.00 */,
 				12EEA3E5185DAEBE003A92F8 /* r8168-8.037.00 */,
 				8DA8362C06AD9B9200E5AC22 /* Kernel.framework */,
 				089C167CFE841241C02AAC07 /* Resources */,
@@ -127,51 +89,6 @@
 				089C167DFE841241C02AAC07 /* InfoPlist.strings */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
-		};
-		1252BE0116E9CAB8002467B3 /* src */ = {
-			isa = PBXGroup;
-			children = (
-				1252BE0216E9CAB8002467B3 /* Makefile */,
-				1252BE0316E9CAB8002467B3 /* Makefile_linux24x */,
-				1252BE0416E9CAB8002467B3 /* r8168.h */,
-				1252BE0516E9CAB8002467B3 /* r8168_asf.c */,
-				1252BE0616E9CAB8002467B3 /* r8168_asf.h */,
-				1252BE0716E9CAB8002467B3 /* r8168_n.c */,
-				1252BE0816E9CAB8002467B3 /* rtl_eeprom.c */,
-				1252BE0916E9CAB8002467B3 /* rtl_eeprom.h */,
-				1252BE0A16E9CAB8002467B3 /* rtltool.c */,
-				1252BE0B16E9CAB8002467B3 /* rtltool.h */,
-			);
-			name = src;
-			path = "r8168-8.035.00/src";
-			sourceTree = "<group>";
-		};
-		125CDCC816F058830087E6D0 /* r8101-1.023 1.00 */ = {
-			isa = PBXGroup;
-			children = (
-				125CDCC916F058830087E6D0 /* autorun.sh */,
-				125CDCCA16F058830087E6D0 /* Makefile */,
-				125CDCCB16F058830087E6D0 /* readme */,
-				125CDCCC16F058830087E6D0 /* src */,
-			);
-			path = "r8101-1.023 1.00";
-			sourceTree = "<group>";
-		};
-		125CDCCC16F058830087E6D0 /* src */ = {
-			isa = PBXGroup;
-			children = (
-				125CDCCD16F058830087E6D0 /* Makefile */,
-				125CDCCE16F058830087E6D0 /* Makefile_linux24x */,
-				125CDCCF16F058830087E6D0 /* r8101.h */,
-				125CDCD016F058830087E6D0 /* r8101_n.c */,
-				125CDCD116F058830087E6D0 /* rtl_eeprom.c */,
-				125CDCD216F058830087E6D0 /* rtl_eeprom.h */,
-				125CDCD316F058830087E6D0 /* rtl_ethtool.h */,
-				125CDCD416F058830087E6D0 /* rtltool.c */,
-				125CDCD516F058830087E6D0 /* rtltool.h */,
-			);
-			path = src;
 			sourceTree = "<group>";
 		};
 		12EEA3C8185DAE9C003A92F8 /* r8101-1.024.00 */ = {
@@ -197,34 +114,6 @@
 				12EEA3D3185DAE9C003A92F8 /* rtl_ethtool.h */,
 				12EEA3D4185DAE9C003A92F8 /* rtltool.c */,
 				12EEA3D5185DAE9C003A92F8 /* rtltool.h */,
-			);
-			path = src;
-			sourceTree = "<group>";
-		};
-		12EEA3D6185DAEAE003A92F8 /* r8168-8.035.00 */ = {
-			isa = PBXGroup;
-			children = (
-				12EEA3D7185DAEAE003A92F8 /* autorun.sh */,
-				12EEA3D8185DAEAE003A92F8 /* Makefile */,
-				12EEA3D9185DAEAE003A92F8 /* README */,
-				12EEA3DA185DAEAE003A92F8 /* src */,
-			);
-			path = "r8168-8.035.00";
-			sourceTree = "<group>";
-		};
-		12EEA3DA185DAEAE003A92F8 /* src */ = {
-			isa = PBXGroup;
-			children = (
-				12EEA3DB185DAEAE003A92F8 /* Makefile */,
-				12EEA3DC185DAEAE003A92F8 /* Makefile_linux24x */,
-				12EEA3DD185DAEAE003A92F8 /* r8168.h */,
-				12EEA3DE185DAEAE003A92F8 /* r8168_asf.c */,
-				12EEA3DF185DAEAE003A92F8 /* r8168_asf.h */,
-				12EEA3E0185DAEAE003A92F8 /* r8168_n.c */,
-				12EEA3E1185DAEAE003A92F8 /* rtl_eeprom.c */,
-				12EEA3E2185DAEAE003A92F8 /* rtl_eeprom.h */,
-				12EEA3E3185DAEAE003A92F8 /* rtltool.c */,
-				12EEA3E4185DAEAE003A92F8 /* rtltool.h */,
 			);
 			path = src;
 			sourceTree = "<group>";
@@ -394,9 +283,11 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CLANG_X86_VECTOR_INSTRUCTIONS = default;
+				CODE_SIGN_IDENTITY = "-";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 3.1.0;
+				CURRENT_PROJECT_VERSION = "$(MODULE_VERSION)";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_CPP_EXCEPTIONS = YES;
@@ -408,8 +299,9 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
 				MODULE_NAME = org.chuko.driver.RealtekR1000SL;
-				MODULE_VERSION = 3.1.0d1;
+				MODULE_VERSION = 3.1.2;
 				PRODUCT_NAME = RealtekR1000SL;
+				SDKROOT = macosx10.11;
 				WRAPPER_EXTENSION = kext;
 			};
 			name = Debug;
@@ -419,8 +311,10 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CLANG_X86_VECTOR_INSTRUCTIONS = default;
+				CODE_SIGN_IDENTITY = "-";
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 3.1.0;
+				CURRENT_PROJECT_VERSION = "$(MODULE_VERSION)";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_ENABLE_CPP_EXCEPTIONS = YES;
 				GCC_ENABLE_CPP_RTTI = YES;
@@ -430,8 +324,9 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
 				MODULE_NAME = org.chuko.driver.RealtekR1000SL;
-				MODULE_VERSION = 3.1.0d1;
+				MODULE_VERSION = 3.1.2;
 				PRODUCT_NAME = RealtekR1000SL;
+				SDKROOT = macosx10.11;
 				WRAPPER_EXTENSION = kext;
 			};
 			name = Release;

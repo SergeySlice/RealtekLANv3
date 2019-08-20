@@ -45,12 +45,13 @@ const u16 RealtekR1000::rtl8168_intr_mask =
 	SYSErr | LinkChg | RxDescUnavail | TxErr | TxOK | RxErr | RxOK;
 const u16 RealtekR1000::rtl8168_napi_event =
 	RxOK | RxDescUnavail | RxFIFOOver | TxOK | TxErr;
-
+/**** unused as commented out
 static const u16 evl_phy_value[] = {
   0x8B56, 0x8B5F, 0x8B68, 0x8B71,
   0x8B7A, 0x8A7B, 0x8A7E, 0x8A81,
   0x8A84, 0x8A87
 };
+ */
 
 // Copied from rtl8168_hw_start()
 void RealtekR1000::RTL8168HwStart()

@@ -3614,7 +3614,7 @@ void RealtekR1000::RTL8100WritePhyIO(int RegAddr, int value)
 	{
 		IODelay(100);
 		// Check if the chip has completed writing
-		if (!ReadMMIO32(PHYIO) & PHYIO_Flag)
+		if (!(ReadMMIO32(PHYIO) & PHYIO_Flag))
 			break;
 	}
 	IODelay(100);
